@@ -12,6 +12,9 @@ The core idea of this project is to provide homeowners with a comprehensive and 
 To solve this problem, the project will develop a user-friendly platform that offers curated content and resources, including tips, ideas, tutorials, and personalized recommendations. The platform will be designed to provide a seamless user experience, with intuitive navigation and a clear layout that allows users to easily find relevant information.
 
 
+Screenshots and Video
+
+
 
 
 ![WhatsApp Image 2023-07-12 at 19 32 23](https://github.com/gaurishmundada/home_interior/assets/119447917/fedb26aa-cd07-457e-8318-dd900857e67a)
