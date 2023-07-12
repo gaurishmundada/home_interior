@@ -3,6 +3,8 @@ I have used 3 services
 1) Static web app
 2) Bot Technology
 3) Storage Account
+
+
 Azure static web app link - https://salmon-field-0ab36b510.3.azurestaticapps.net
 
 Project Description:
