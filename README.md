@@ -1,5 +1,5 @@
 This is my final project
-I have used 3 services
+I have used 3 Azure services
 1) Static web app
 2) Bot Technology
 3) Storage Account
